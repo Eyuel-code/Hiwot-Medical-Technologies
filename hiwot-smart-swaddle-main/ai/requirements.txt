@@ -1,6 +1,0 @@
-tensorflow
-wfdb
-fastapi
-uvicorn
-numpy
-pandas
