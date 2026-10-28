@@ -1,0 +1,13 @@
+# secrets
+firmware/src/secrets.h
+.env
+# build output
+*.o
+*.elf
+*.hex
+# python
+venv/
+__pycache__/
+*.h5
+# datasets (1.6 GB PICSDB, download from PhysioNet)
+preterm-infant-cardio-respiratory-signals-database-*/
